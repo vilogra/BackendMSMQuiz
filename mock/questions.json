@@ -1,0 +1,90 @@
+[
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the most common surname Wales?",
+    "correct_answer": "Jones",
+    "incorrect_answers": ["Williams", "Davies", "Evans"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the shape of the toy invented by Hungarian professor Ernő Rubik?",
+    "correct_answer": "Cube",
+    "incorrect_answers": ["Sphere", "Cylinder", "Pyramid"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following presidents is not on Mount Rushmore?",
+    "correct_answer": "John F. Kennedy",
+    "incorrect_answers": [
+      "Theodore Roosevelt",
+      "Abraham Lincoln",
+      "Thomas Jefferson"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is Cynophobia the fear of?",
+    "correct_answer": "Dogs",
+    "incorrect_answers": ["Birds", "Flying", "Germs"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+    "correct_answer": "Plum",
+    "incorrect_answers": ["Apple", "Peach", "Pear"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Terry Gilliam was an animator that worked with which British comedy group?",
+    "correct_answer": "Monty Python",
+    "incorrect_answers": [
+      "The Goodies&lrm;",
+      "The League of Gentlemen&lrm;",
+      "The Penny Dreadfuls"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When someone is inexperienced they are said to be what color?",
+    "correct_answer": "Green",
+    "incorrect_answers": ["Red", "Blue", "Yellow"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When someone is cowardly, they are said to have what color belly?",
+    "correct_answer": "Yellow",
+    "incorrect_answers": ["Green", "Red", "Blue"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country has the union jack in its flag?",
+    "correct_answer": "New Zealand",
+    "incorrect_answers": ["South Africa", "Canada", "Hong Kong"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?",
+    "correct_answer": "Helicopter",
+    "incorrect_answers": ["Stealth Blimp", "Jet", "Space Capsule"]
+  }
+]
